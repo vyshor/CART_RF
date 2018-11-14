@@ -6,7 +6,9 @@
 
 ### Tl;dr
 
-1. Data Cleaning -> Initial Run of CART -> Optimised CART hyperparameters -> Visualise important variables -> Feature Engineering of relevant variables -> Re-run CART with recoded variables -> Initial Run of RandomForest (with non-recoded data) -> Optimised RandomForest hyperparameters -> Re-run RandomForest with recoded variables
+1. * Data Cleaning -> Initial Run of CART -> Optimised CART hyperparameters
+    * Visualise important variables -> Feature Engineering of relevant variables -> Re-run CART with recoded variables
+    * Initial Run of RandomForest (with non-recoded data) -> Optimised RandomForest hyperparameters -> Re-run RandomForest with recoded variables
 2. Using Rstudio for implementation of CART and RandomForest
 
 > Order of running the R-Script & Information of each script:
